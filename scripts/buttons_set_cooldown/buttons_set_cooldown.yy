@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"buttons_set_cooldown",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"buttons_set_cooldown",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
