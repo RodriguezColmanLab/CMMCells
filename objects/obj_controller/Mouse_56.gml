@@ -14,5 +14,5 @@ if (!spawned_transformed_cell) {
 	}
 	
 	spawned_transformed_cell = true;
-	buttons_set_cooldown(20);
+	buttons_set_cooldown(10);
 }
